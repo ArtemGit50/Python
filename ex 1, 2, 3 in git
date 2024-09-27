@@ -1,3 +1,4 @@
+# 1
 integer_var = 10
 float_var = 1.6
 string_var = "Hello"
@@ -14,3 +15,22 @@ print(tuple_var)
 print(dict_var)
 print(set_var)
 print(bool_var)
+
+# 2
+age = 20
+average_grade = 12.2
+favorite_movies = ["Кот в сапогах", "Ёжик в тумане", "По щучьему виленью"]
+personal_info = ( "Шенгелия", "№31", 12)
+skills = {"Чтение":"Творчество","50%":"80%"}
+visited_countries = {"Польша", "Латвия", "Литва"}
+has_driver_license = False
+print(name)
+print(age)
+print(average_grade)
+print(favorite_movies)
+print(personal_info)
+print(skills)
+print(visited_countries)
+print(has_driver_license)
+
+# 3
