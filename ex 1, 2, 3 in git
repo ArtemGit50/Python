@@ -34,4 +34,8 @@ print(visited_countries)
 print(has_driver_license)
 
 # 3
-   
+Imu = "BECHTAO"
+obem = 2000
+skorost = 500.67
+fjklod = [Imu , obem , skorost]
+print(fjklod)   
